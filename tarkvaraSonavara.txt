@@ -1,0 +1,39 @@
+﻿ПО - Tarkvara/TA
+Процесс разработки ПО - Tarkvara arendusprotsess
+Документация на ПО - Tarkvara dokumentatsioon 
+Проект - Projekt
+ИТ проект - IT projekt
+Бизнес-проект - Äriprojekt
+Проект по разработке - Arendusprojekt
+Проект по реализации - Teostusprojekt/Realiseerimis projekt
+Диаграмма Ганта - Gantti diagramm
+
+критический путь проекта - projekti kriitiline tee
+виды рисков в проекте - projekti riskiliigid
+аутсортсинг - allhange
+краудсортсинг - rahvahange
+ИТ аудит - IT auditt
+ERP системы - ERP süsteemid
+ROI для оценки проектов - projektide hindamiseks ROI
+Tacit- infotehnoloogia tehniline teenistus.
+Knowledge Managment System - teadmiste haldamise süsteem
+cистемы управления базами данных – andmebaaside haldussüsteemid, MySQL, Microsoft SQL Server, XAMPP, ORACLE, Access
+Project Managment Tool - Projektihaldustööriist
+
+mudel
+kasutusmalliskeem - kasutuslooskeem - диаграмма прецеднтов
+tegevusskeem - диаграмма активности / деятельности
+jadaskeem - диаграмма последовательности
+klassiskeem - диаграмма классов
+koostõõskeem - диаграмма взаимодействия
+andmebaasiskeem - диаграмма базы данных
+seosedskeem - диаграмма связей
+muster - узор / схема / шаблон
+mustand - черновик
+punkt - точка
+romb - ромб
+rüstküllik - прямоугольник 
+joon - линия
+nool - стрелка
+algussõlm - начальный узел
+ovaal - овал
